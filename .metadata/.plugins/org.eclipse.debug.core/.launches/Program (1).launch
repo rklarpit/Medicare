@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/C1G2_Medicare/src/edu/tamu/isys/medicare/Program.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="edu.tamu.isys.medicare.Program"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="/Users/rklarpit/Documents/Arpitbackup/ADM/Save/a.txt /Users/rklarpit/Documents/Arpitbackup/ADM/Save/Output/OutputFile"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="C1G2_Medicare"/>
+</launchConfiguration>
